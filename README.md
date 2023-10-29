@@ -1,6 +1,6 @@
 # BookApp
 1. Apis Endpoints
-baseURl - https://bookapp1-7d52.onrender.com
+baseURl -(https://bookapp2-9lug.onrender.com)
      Api Endpoints                                             
    /createBook(to create a book --"POST METHOD") -                            
    /updateBook/:id(to update date using ID--"PUT METHOD")-                  
@@ -17,4 +17,8 @@ start command - node server.js / nodemon start
   i have used express-validator library to validate inputs
 
 4.deployment
-  - i have deployed on Application on render.detail explaination on video
+  - i have deployed on Application on render.
+  - i have connected github master repo with render
+  - then i choose web service for deployment
+  - then i have build command npm i and start command npm start. then click on build
+  - after that code deployed successfully.
